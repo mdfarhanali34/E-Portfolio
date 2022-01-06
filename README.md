@@ -1,8 +1,13 @@
 # E-Portfolio
+
 Assignment: eportfolio
+
 Name: Mohammad Farhan Ali
+
 ID: 1158122
+
 Email: mali34@uoguelph.ca
+
 *********************************
 
 About the Software:
